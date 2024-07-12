@@ -1,3 +1,14 @@
+Possible Imporvements: 
+Types declarations can be  enhanced. 
+ 
+
+
+Kindly let me know if there are any other imporvements that can be made in the application structure. 
+
+
+
+
+
 Hey, thanks for applying for this role! We are pleased to inform you are one of the developers that was carefully shortlisted from over a hundred applications.
 
 For the next round, we invite you to a technical challenge aimed at assessing your ability to write clean, functional, modular and lean code. The task has been designed to be completed in 30 to 60 minutes, depending on your experience.
